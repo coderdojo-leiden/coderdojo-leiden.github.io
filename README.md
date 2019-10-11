@@ -7,4 +7,4 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 GitHub Pages gemaakt door vrijwilligers van CoderDojo Leiden:
 - HTML & CSS deel 1: [https://ciskavs.github.io/website-deel1/](https://ciskavs.github.io/website-deel2/)
 - HTML & CSS deel 2: [https://ciskavs.github.io/website-deel2/](https://ciskavs.github.io/website-deel2/)
-- HTML & CSS deel 2: [https://ciskavs.github.io/website-deel2/](https://ciskavs.github.io/website-deel2/)
+- HTML & CSS deel 3: [https://ciskavs.github.io/website-deel2/](https://ciskavs.github.io/website-deel3/)
