@@ -8,3 +8,4 @@ GitHub Pages gemaakt door vrijwilligers van CoderDojo Leiden:
 - HTML & CSS deel 1: [https://ciskavs.github.io/website-deel1/](https://ciskavs.github.io/website-deel2/)
 - HTML & CSS deel 2: [https://ciskavs.github.io/website-deel2/](https://ciskavs.github.io/website-deel2/)
 - HTML & CSS deel 3: [https://ciskavs.github.io/website-deel3/](https://ciskavs.github.io/website-deel3/)
+- Websites bouwen met Bootstrap: [https://ciskavs.github.io/puppy-love/opdrachten.html](https://ciskavs.github.io/puppy-love/opdrachten.html)
