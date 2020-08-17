@@ -9,6 +9,7 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 - Machine learning met Scratch [https://coderdojo-leiden.github.io/machine-learning/](https://coderdojo-leiden.github.io/machine-learning/)
 - Leerlijn Scratch [https://coderdojo-leiden.github.io/leerlijn-scratch/](https://coderdojo-leiden.github.io/leerlijn-scratch/)
 - Leerlijn Python [https://coderdojo-leiden.github.io/leerlijn-python/](https://coderdojo-leiden.github.io/leerlijn-python/)
+- 2D games met Unity [https://coderdojo-leiden.github.io/NinjaDojo/](https://coderdojo-leiden.github.io/NinjaDojo/)
 
 Externe GitHub Pages gemaakt door vrijwilligers van CoderDojo Leiden:
 - HTML & CSS deel 1: [https://ciskavs.github.io/website-deel1/](https://ciskavs.github.io/website-deel1/)
