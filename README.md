@@ -8,6 +8,7 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 - Machine learning met Scratch: [https://coderdojo-leiden.github.io/machine-learning/](https://coderdojo-leiden.github.io/machine-learning/)
 - Opdrachten waarmee je leert de micro:bit te programmeren: [https://coderdojo-leiden.github.io/microbit/](https://coderdojo-leiden.github.io/microbit/)
 - 2D games met Unity: [https://coderdojo-leiden.github.io/NinjaDojo/](https://coderdojo-leiden.github.io/NinjaDojo/)
+- De ontdekpagina: [https://coderdojo-leiden.github.io/ontdekpagina/](https://coderdojo-leiden.github.io/ontdekpagina/)
 - Puzzels ontwerpen met PuzzleScript: [https://coderdojo-leiden.github.io/puzzlescript/](https://coderdojo-leiden.github.io/puzzlescript/)
 - Een sneeuwbol nabootsen op de micro:bit: [https://coderdojo-leiden.github.io/sneeuwbol/](https://coderdojo-leiden.github.io/sneeuwbol/)
 - Muziek maken met Sonic Pi: [https://coderdojo-leiden.github.io/sonic-pi/](https://coderdojo-leiden.github.io/sonic-pi/)
