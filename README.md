@@ -10,6 +10,7 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 - 2D games met Unity: [https://coderdojo-leiden.github.io/NinjaDojo/](https://coderdojo-leiden.github.io/NinjaDojo/)
 - De ontdekpagina: [https://coderdojo-leiden.github.io/ontdekpagina/](https://coderdojo-leiden.github.io/ontdekpagina/)
 - Puzzels ontwerpen met PuzzleScript: [https://coderdojo-leiden.github.io/puzzlescript/](https://coderdojo-leiden.github.io/puzzlescript/)
+- Astro Pi Mission Zero en andere ruimtevaartprojecten: [https://coderdojo-leiden.github.io/ruimtevaart/](https://coderdojo-leiden.github.io/ruimtevaart/)
 - Een sneeuwbol nabootsen op de micro:bit: [https://coderdojo-leiden.github.io/sneeuwbol/](https://coderdojo-leiden.github.io/sneeuwbol/)
 - Muziek maken met Sonic Pi: [https://coderdojo-leiden.github.io/sonic-pi/](https://coderdojo-leiden.github.io/sonic-pi/)
 
