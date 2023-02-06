@@ -1,7 +1,7 @@
 # coderdojo-leiden.github.io
 CoderDojo Leiden heeft de volgende GitHub Pages:
-- Happy birthday met Sonic Pi: [https://coderdojo-leiden.github.io/happy-birthday/](https://coderdojo-leiden.github.io/happy-birthday/)
 - Bouw een escaperoom in Scratch: [https://coderdojo-leiden.github.io/escaperoom](https://coderdojo-leiden.github.io/escaperoom)
+- Happy birthday met Sonic Pi: [https://coderdojo-leiden.github.io/happy-birthday/](https://coderdojo-leiden.github.io/happy-birthday/)
 - Jingle bells met Sonic Pi: [https://coderdojo-leiden.github.io/jingle-bells/](https://coderdojo-leiden.github.io/jingle-bells/)
 - Kerstboom met BlocksCAD: [https://coderdojo-leiden.github.io/kerstboom/](https://coderdojo-leiden.github.io/kerstboom/)
 - Leerlijn Python: [https://coderdojo-leiden.github.io/leerlijn-python/](https://coderdojo-leiden.github.io/leerlijn-python/)
@@ -14,6 +14,7 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 - Astro Pi Mission Zero en andere ruimtevaartprojecten: [https://coderdojo-leiden.github.io/ruimtevaart/](https://coderdojo-leiden.github.io/ruimtevaart/)
 - Een sneeuwbol nabootsen op de micro:bit: [https://coderdojo-leiden.github.io/sneeuwbol/](https://coderdojo-leiden.github.io/sneeuwbol/)
 - Muziek maken met Sonic Pi: [https://coderdojo-leiden.github.io/sonic-pi/](https://coderdojo-leiden.github.io/sonic-pi/)
+- 3D ontwerpen en printen met TinkerCAD: [https://coderdojo-leiden.github.io/tinkercad/](https://coderdojo-leiden.github.io/tinkercad/)
 
 Externe GitHub Pages gemaakt door vrijwilligers van CoderDojo Leiden:
 - Websites bouwen met Bootstrap: [https://ciskavs.github.io/puppy-love/opdrachten.html](https://ciskavs.github.io/puppy-love/opdrachten.html)
