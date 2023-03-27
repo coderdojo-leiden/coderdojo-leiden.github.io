@@ -1,6 +1,7 @@
 # coderdojo-leiden.github.io
 CoderDojo Leiden heeft de volgende GitHub Pages:
-- Bouw een escaperoom in Scratch: [https://coderdojo-leiden.github.io/escaperoom](https://coderdojo-leiden.github.io/escaperoom)
+- Leer programmeren met CodeCombat: [https://coderdojo-leiden.github.io/codecombat](https://coderdojo-leiden.github.io/codecombat/)
+- Bouw een escaperoom in Scratch: [https://coderdojo-leiden.github.io/escaperoom/](https://coderdojo-leiden.github.io/escaperoom/)
 - Happy birthday met Sonic Pi: [https://coderdojo-leiden.github.io/happy-birthday/](https://coderdojo-leiden.github.io/happy-birthday/)
 - Jingle bells met Sonic Pi: [https://coderdojo-leiden.github.io/jingle-bells/](https://coderdojo-leiden.github.io/jingle-bells/)
 - Kerstboom met BlocksCAD: [https://coderdojo-leiden.github.io/kerstboom/](https://coderdojo-leiden.github.io/kerstboom/)
