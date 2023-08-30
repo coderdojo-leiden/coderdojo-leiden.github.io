@@ -1,7 +1,7 @@
 # coderdojo-leiden.github.io
 CoderDojo Leiden heeft de volgende GitHub Pages:
-- Demo's: Digitale kunst: [https://coderdojo-leiden.github.io/demos-digitale-kunst/](https://coderdojo-leiden.github.io/demos-digitale-kunst/)
 - Leer programmeren met CodeCombat: [https://coderdojo-leiden.github.io/codecombat](https://coderdojo-leiden.github.io/codecombat/)
+- Demo's: Digitale kunst: [https://coderdojo-leiden.github.io/demos-digitale-kunst/](https://coderdojo-leiden.github.io/demos-digitale-kunst/)
 - Bouw een escaperoom in Scratch: [https://coderdojo-leiden.github.io/escaperoom/](https://coderdojo-leiden.github.io/escaperoom/)
 - Happy birthday met Sonic Pi: [https://coderdojo-leiden.github.io/happy-birthday/](https://coderdojo-leiden.github.io/happy-birthday/)
 - Jingle bells met Sonic Pi: [https://coderdojo-leiden.github.io/jingle-bells/](https://coderdojo-leiden.github.io/jingle-bells/)
@@ -10,6 +10,7 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 - Leerlijn Scratch: [https://coderdojo-leiden.github.io/leerlijn-scratch/](https://coderdojo-leiden.github.io/leerlijn-scratch/)
 - Machine learning met Scratch: [https://coderdojo-leiden.github.io/machine-learning/](https://coderdojo-leiden.github.io/machine-learning/)
 - Opdrachten waarmee je leert de micro:bit te programmeren: [https://coderdojo-leiden.github.io/microbit/](https://coderdojo-leiden.github.io/microbit/)
+- Moonhack-projecten: [https://coderdojo-leiden.github.io/moonhack/](https://coderdojo-leiden.github.io/moonhack/)
 - 2D games met Unity: [https://coderdojo-leiden.github.io/NinjaDojo/](https://coderdojo-leiden.github.io/NinjaDojo/)
 - De ontdekpagina: [https://coderdojo-leiden.github.io/ontdekpagina/](https://coderdojo-leiden.github.io/ontdekpagina/)
 - Puzzels ontwerpen met PuzzleScript: [https://coderdojo-leiden.github.io/puzzlescript/](https://coderdojo-leiden.github.io/puzzlescript/)
