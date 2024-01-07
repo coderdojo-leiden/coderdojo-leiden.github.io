@@ -6,6 +6,7 @@ CoderDojo Leiden heeft de volgende GitHub Pages:
 - Happy birthday met Sonic Pi: [https://coderdojo-leiden.github.io/happy-birthday/](https://coderdojo-leiden.github.io/happy-birthday/)
 - Jingle bells met Sonic Pi: [https://coderdojo-leiden.github.io/jingle-bells/](https://coderdojo-leiden.github.io/jingle-bells/)
 - Kerstboom met BlocksCAD: [https://coderdojo-leiden.github.io/kerstboom/](https://coderdojo-leiden.github.io/kerstboom/)
+- Leerlijn micro:bit: [https://coderdojo-leiden.github.io/leerlijn-microbit/](https://coderdojo-leiden.github.io/leerlijn-microbit/)
 - Leerlijn Python: [https://coderdojo-leiden.github.io/leerlijn-python/](https://coderdojo-leiden.github.io/leerlijn-python/)
 - Leerlijn Scratch: [https://coderdojo-leiden.github.io/leerlijn-scratch/](https://coderdojo-leiden.github.io/leerlijn-scratch/)
 - Machine learning met Scratch: [https://coderdojo-leiden.github.io/machine-learning/](https://coderdojo-leiden.github.io/machine-learning/)
